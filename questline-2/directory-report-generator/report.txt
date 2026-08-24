@@ -1,0 +1,8 @@
+Directory report: /etc
+Generated on : Mon Aug 24 11:13:29 AM UTC 2026
+
+Total number of files: 1123
+Total number of executable files: 99
+Largest file: 496 /etc/ssh/moduli
+Most recently modified file: /etc/hosts
+Number of hidden files: 15
